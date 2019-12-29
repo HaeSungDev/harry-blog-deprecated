@@ -2,6 +2,7 @@
 title: Daily Writing 개발 정리 (1) - 도메인 정리
 date: 2019-12-29 23:22:33
 tags:
+categories: [Toy Project, Daily Writing]
 ---
 
 # Daily Writing 개발 정리
