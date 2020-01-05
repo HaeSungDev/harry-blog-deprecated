@@ -33,3 +33,10 @@ categories: [Toy Project, Daily Writing]
   * github처럼 글을 쓴 잔디밭을 볼 수 있습니다.
   * 내 글 목록을 볼 수 있습니다.
   * 나를 구독한 사람 목록을 볼 수 있습니다.
+
+### 도메인 모델
+
+{% asset_img domain-model.png domain model image %}
+
+도메인 모델을 빠르게 작성하기 위해 전체적인 흐름만 표현 할 수 있도록 간략하게 작성했습니다. </br>
+정확하지 않은 부분은 있을 수 있지만 코딩을 하면서 고치고 개선 할 예정입니다.</br>
